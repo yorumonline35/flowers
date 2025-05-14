@@ -1,0 +1,10 @@
+[
+  {
+    "id": 1,
+    "image": "https://example.com/image1.jpg",
+    "name": "Sample Product",
+    "description": "This is a sample product.",
+    "price": "$29.00",
+    "stripeLink": "https://buy.stripe.com/sample"
+  }
+]
